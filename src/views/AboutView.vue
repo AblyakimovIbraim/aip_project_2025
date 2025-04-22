@@ -1,5 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <v-container>
+    <v-row justify="center">
+      <h1>About</h1>
+    </v-row></v-container>
 </template>
+<script>
+export default {
+  data() {
+    return {
+    }
+  }
+}
+</script>
